@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "blooket": "^0.1.0",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "mailparser": "^3.7.1",
+    "mysql2": "^3.11.4",
+    "prompt-sync": "^4.2.0",
+    "tls": "^0.0.1"
+  }
+}
